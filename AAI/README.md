@@ -128,7 +128,9 @@ Model dievaluasi dengan:
 ## Prototype
 
 ### 1. **Frontend Prototype (Antarmuka Pengguna)**
-Frontend dari aplikasi ini dibangun menggunakan **Vite.js** dan **Tailwind CSS** untuk memberikan pengalaman pengguna yang responsif dan cepat. Pengguna dapat mengunggah gambar tanaman dan memasukkan parameter lingkungan melalui antarmuka pengguna yang sederhana.
+<p align="justify">
+Frontend dari aplikasi ini dibangun menggunakan Vite.js dan Tailwind CSS untuk memberikan pengalaman pengguna yang responsif dan cepat. Pengguna dapat mengunggah gambar tanaman dan memasukkan parameter lingkungan melalui antarmuka pengguna yang sederhana.
+</p>
 
 #### Alur dan Struktur Frontend:
 - **Halaman Utama**:
@@ -144,8 +146,9 @@ Frontend dari aplikasi ini dibangun menggunakan **Vite.js** dan **Tailwind CSS**
 ---
 
 ### 2. **Backend Prototype (Logika Aplikasi dan Integrasi Model AI)**
-
-Backend dari aplikasi ini berfungsi untuk memproses data yang dikirimkan oleh pengguna (gambar tanaman dan parameter lingkungan), menjalankan model AI untuk deteksi penyakit dan rekomendasi tanaman, kemudian mengembalikan hasil kepada frontend. Backend menggunakan **Flask** sebagai framework API dan **TensorFlow** untuk pemrosesan model AI.
+<p align="justify">
+Backend dari aplikasi ini berfungsi untuk memproses data yang dikirimkan oleh pengguna (gambar tanaman dan parameter lingkungan), menjalankan model AI untuk deteksi penyakit dan rekomendasi tanaman, kemudian mengembalikan hasil kepada frontend. Backend menggunakan Flask sebagai framework API dan TensorFlow untuk pemrosesan model AI.
+</p>
 
 #### 2.1 **Struktur Backend**
 Backend terdiri dari beberapa bagian utama:
@@ -170,8 +173,9 @@ Frontend dan backend diintegrasikan dengan cara:
 ✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦
 
 ## Integration
-
-Integrasi dalam proyek **PlantWise** melibatkan penyatuan berbagai komponen aplikasi untuk menciptakan alur kerja yang mulus antara antarmuka pengguna, backend, dan model AI yang digunakan. Berikut adalah penjelasan lebih rinci mengenai bagaimana komponen-komponen ini bekerja bersama-sama:
+<p align="justify">
+Integrasi dalam proyek PlantWise melibatkan penyatuan berbagai komponen aplikasi untuk menciptakan alur kerja yang mulus antara antarmuka pengguna, backend, dan model AI yang digunakan. Berikut adalah penjelasan lebih rinci mengenai bagaimana komponen-komponen ini bekerja bersama-sama:
+</p>
 
 ### 1. Struktur Sistem
 PlantWise terdiri dari dua lapisan utama:
