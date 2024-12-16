@@ -21,7 +21,7 @@
 
 ✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦
 
-## Team AAI Division
+## Team AAI Division ✨
 
 - **Muhammad Hadianur Al Rafi** (Design Researcher)
 - **Muhammad Iranda** (Scrum Master, Machine Learning Engineer)
