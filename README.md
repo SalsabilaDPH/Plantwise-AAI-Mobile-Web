@@ -71,6 +71,8 @@ PlantWise adalah platform digital berbasis web dan mobile yang dirancang untuk m
 - Cindy Febriani (Advanced AI Division)
 - Shania Sabrina (Mobile Division)
 - Bill Jeff (Web Division)
-  
+
+## Video Showcase Project
+<h4> Saksikan video showcase PlantWise " https://drive.google.com/file/d/1lc_DRTpkMLVYiZTlJqSY4pL2WN9-jwYi/view " </h4>
 ===========================================================================
 
