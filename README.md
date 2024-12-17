@@ -89,6 +89,6 @@ Berikut adalah struktur direktori yang telah disusun untuk mempermudah pengelola
 ===========================================================================
 
 ## Video Showcase Project
-<h4> Saksikan video showcase PlantWise " https://drive.google.com/file/d/1lc_DRTpkMLVYiZTlJqSY4pL2WN9-jwYi/view " </h4>
+<h4> Saksikan video showcase PlantWise "https://drive.google.com/file/d/1lc_DRTpkMLVYiZTlJqSY4pL2WN9-jwYi/view" </h4>
 ===========================================================================
 
