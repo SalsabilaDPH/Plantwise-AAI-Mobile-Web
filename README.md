@@ -71,6 +71,22 @@ PlantWise adalah platform digital berbasis web dan mobile yang dirancang untuk m
 - Cindy Febriani (Advanced AI Division)
 - Shania Sabrina (Mobile Division)
 - Bill Jeff (Web Division)
+  
+===========================================================================
+
+## Struktur Direktori
+
+Berikut adalah struktur direktori yang telah disusun untuk mempermudah pengelolaan proyek dalam repositori ini:
+
+```bash
+├── /AAI               # Berisi file-file dataset & model pengembangan AI
+│   └── README.md      # Dokumentasi AAI
+├── /Mobile            # Berisi file-file pengembangan apps mobile
+│   └── README.md      # Dokumentasi Mobile
+├── /Web               # Berisi file-file pengembangan website
+│   └── README.md      # Dokumentasi Web
+```
+===========================================================================
 
 ## Video Showcase Project
 <h4> Saksikan video showcase PlantWise " https://drive.google.com/file/d/1lc_DRTpkMLVYiZTlJqSY4pL2WN9-jwYi/view " </h4>
