@@ -69,7 +69,7 @@ PlantWise adalah platform digital berbasis web dan mobile yang dirancang untuk m
 ## Mentor
 
 - Cindy Febriani (Advanced AI Division)
-- Shasa (Mobile Division)
+- Shania Sabrina (Mobile Division)
 - Bill Jeff (Web Division)
   
 ===========================================================================
