@@ -21,6 +21,7 @@ PlantWise adalah platform digital berbasis web dan mobile yang dirancang untuk m
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/CNN-%23FF6F61.svg?style=for-the-badge&logo=ai&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C4B3.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
