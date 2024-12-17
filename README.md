@@ -1,5 +1,7 @@
 <h1 align="center">  App PlantWise - AgroTech Group </h1>
 
+![PlantWise Logo](https://raw.githubusercontent.com/SalsabilaDPH/Plantwise-AAI-Mobile-Web/main/Mobile/Logo-PlantWise.jpg)
+
 ===========================================================================
 
 <p align="center">
