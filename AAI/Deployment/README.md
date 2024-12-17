@@ -358,3 +358,4 @@ Lakukan post dengan contoh data sebelumnya diatas, dan hasil prediksi pun keluar
 ---
 
 <h3 align="center"> Infinite Learning Indonesia </h3>
+<h4 align="left"> Credit to Arifian853 as an original uploader https://github.com/arifian853 </h1>
